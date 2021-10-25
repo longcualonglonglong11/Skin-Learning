@@ -6,7 +6,7 @@
 To detect and learn about the skin deseases.
 
 ## Team member:
-Nguyễn Hoàng Long
-Nguyễn Hữu Khang
-Nguyễn Tiến Anh
+Nguyễn Hoàng Long \
+Nguyễn Hữu Khang \
+Nguyễn Tiến Anh \
 Đỗ khắc Minh Nhật
